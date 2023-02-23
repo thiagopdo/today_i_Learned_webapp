@@ -11,6 +11,10 @@ body {
 	padding: 48px 64px;
 }
 
+.hidden {
+	display: none !important;
+}
+
 
 /* MAIN LAYOUT */
 .container {
@@ -24,9 +28,6 @@ body {
 	align-items: center;
 	justify-content: space-between;
 }
-
-
-
 
 .main {
 	display: grid;
